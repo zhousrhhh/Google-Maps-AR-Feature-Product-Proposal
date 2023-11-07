@@ -9,5 +9,5 @@ This is a product proposal for adding AR Feature into Google Maps. We finished p
 7. Identify key considerations for designing the software and hardware system
 8. Develop a Business Model Canvas
 9. Performance Metrics
-10. Product Proposal 
+10. Product Proposal [Google Maps AR Feature Product Proposal.pdf]
 
